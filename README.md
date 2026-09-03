@@ -60,32 +60,7 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 ---
 
-# 🧠 AI Engineer Journey
 
-I'm currently building my foundation toward becoming an **AI Engineer**.
-
-```text
-                    AI ENGINEER JOURNEY
-
-                         🤖 AI
-                          │
-             ┌────────────┼────────────┐
-             │            │            │
-            ML           GenAI       AI Agents
-             │            │            │
-             └────────────┼────────────┘
-                          │
-                       🐍 Python
-                          │
-                 ┌────────┴────────┐
-                 │                 │
-            🌐 Full-Stack      ☁️ Cloud
-                 │                 │
-                 └────────┬────────┘
-                          │
-                     🚀 Real-World
-                       Projects
-```
 
 ### 🎯 My Current Focus
 
