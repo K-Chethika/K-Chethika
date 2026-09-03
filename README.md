@@ -234,19 +234,6 @@ https://github.com/K-Chethika/Spotify-Clone
 
 </div>
 
----
-
-# 💻 GitHub Profile
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/K-Chethika?style=for-the-badge\&logo=github\&label=Followers)
-
-![GitHub stars](https://img.shields.io/github/stars/K-Chethika?style=for-the-badge\&logo=github\&label=Stars)
-
-![GitHub repositories](https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge\&logo=github)
-
-</div>
 
 ---
 
