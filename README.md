@@ -1,110 +1,165 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= AI ENGINEER GITHUB PROFILE ======================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=7CFFCB&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Kavindi+Chethika+%F0%9F%91%8B;Software+Engineering+Undergraduate+%F0%9F%92%BB;Aspiring+AI+Engineer+%F0%9F%A4%96;Building+AI-Powered+Applications+%F0%9F%A7%A0;Full-Stack+%7C+AI+%7C+Cloud+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Real+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=gradient&text=KAVINDI%20CHETHIKA&fontColor=ffffff&fontSize=44&animation=fadeIn&stroke=7CFFCB&strokeWidth=1" />
+
+<br>
+
+<p>
+  <strong>🤖 Aspiring AI Engineer</strong>
+  &nbsp; • &nbsp;
+  <strong>🌐 Full-Stack Developer</strong>
+  &nbsp; • &nbsp;
+  <strong>☁️ Cloud Engineering Enthusiast</strong>
+</p>
+
+<p>
+  <em>Building intelligent software that solves real-world problems.</em>
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=K-Chethika&label=PROFILE%20VIEWS&color=7CFFCB&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+Hi! I'm **Kavindi Chethika**, a Software Engineering undergraduate from Sri Lanka with a growing passion for **Artificial Intelligence and intelligent software systems**.
+
+I'm interested in combining **AI + Software Engineering + Cloud technologies** to create practical applications that are useful, scalable, and user-focused.
+
+```text
+🎓 Software Engineering Undergraduate
+🤖 Aspiring AI Engineer
+🐍 Python & AI Enthusiast
+🌐 Full-Stack Developer
+☁️ Cloud Engineering Enthusiast
+🧠 Problem Solver
+🚀 Project-Based Learner
+🇱🇰 Sri Lanka
+```
+
+### 🌱 What I'm Learning
+
+* 🤖 Artificial Intelligence & Machine Learning
+* ✨ Generative AI
+* 🔗 AI Agents & Agentic AI
+* 🐍 Python for AI
+* 🌐 Full-Stack Web Development
+* ☁️ Cloud Engineering
+* 🗄️ Database Systems
+* ⚙️ Software Engineering & System Design
+
+---
+
+# 🧠 AI Engineer Journey
+
+I'm currently building my foundation toward becoming an **AI Engineer**.
+
+```text
+                    AI ENGINEER JOURNEY
+
+                         🤖 AI
+                          │
+             ┌────────────┼────────────┐
+             │            │            │
+            ML           GenAI       AI Agents
+             │            │            │
+             └────────────┼────────────┘
+                          │
+                       🐍 Python
+                          │
+                 ┌────────┴────────┐
+                 │                 │
+            🌐 Full-Stack      ☁️ Cloud
+                 │                 │
+                 └────────┬────────┘
+                          │
+                     🚀 Real-World
+                       Projects
+```
+
+### 🎯 My Current Focus
+
+| Area                | Focus                                             |
+| ------------------- | ------------------------------------------------- |
+| 🤖 AI               | AI fundamentals & intelligent applications        |
+| 🧠 Machine Learning | Learning ML concepts and practical implementation |
+| ✨ Generative AI     | LLMs, prompting & AI-powered applications         |
+| 🔗 AI Agents        | Exploring agentic workflows and automation        |
+| 🐍 Python           | Strengthening Python for AI development           |
+| 🌐 Full-Stack       | Building complete web applications                |
+| ☁️ Cloud            | Learning cloud-based application development      |
+| 🗄️ Databases       | SQL & NoSQL database systems                      |
+
+---
+
+# 🛠️ Technology Stack
+
+### 🤖 AI & Data
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=700&color=7CFFCB&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Kavindi+Chethika+%F0%9F%91%8B;Software+Engineering+Undergraduate+%F0%9F%92%BB;Aspiring+AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8C%90;Cloud+Engineering+Enthusiast+%E2%98%81%EF%B8%8F;Building+Ideas+Into+Real+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=KAVINDI%20CHETHIKA&fontColor=ffffff&fontSize=42&animation=fadeIn&stroke=7CFFCB&strokeWidth=1" />
-</p>
-
-<p align="center">
-  <strong>Software Engineering Undergraduate · Aspiring AI Engineer · Full-Stack Developer</strong>
-</p>
-
-<p align="center">
-  🤖 AI &nbsp; • &nbsp;
-  🌐 Full-Stack Development &nbsp; • &nbsp;
-  ☁️ Cloud Engineering &nbsp; • &nbsp;
-  🧠 Problem Solving
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K-Chethika&label=PROFILE%20VIEWS&color=7CFFCB&style=for-the-badge" alt="Profile Views"/>
+<b>Python • Artificial Intelligence • Machine Learning • Generative AI • AI Agents • Data Analysis</b>
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-🎓 Software Engineering undergraduate passionate about **building useful technology and solving real-world problems**.
-
-🤖 My long-term goal is to become an **AI Engineer**, creating intelligent applications that combine software engineering with artificial intelligence.
-
-💻 I enjoy working with **Python, JavaScript, React, databases, and modern web technologies**.
-
-☁️ I'm also interested in **Cloud Engineering, scalable systems, and cloud-based application development**.
-
-🌱 Currently exploring **Machine Learning, Generative AI, AI Agents, Full-Stack Development, and Cloud technologies**.
-
-🚀 I learn best by **building projects, experimenting with new technologies, and turning ideas into working applications**.
-
-🇱🇰 Based in **Sri Lanka**.
-
----
-
-## 🎯 What I'm Currently Focused On
+### 💻 Programming Languages
 
 <p align="center">
-
-🤖 <strong>Artificial Intelligence</strong>    •   
-🧠 <strong>Machine Learning</strong>    •   
-✨ <strong>Generative AI</strong>
-
-<br><br>
-
-🔗 <strong>AI Agents</strong>    •   
-🐍 <strong>Python for AI</strong>    •   
-⚛️ <strong>React Development</strong>
-
-<br><br>
-
-🌐 <strong>Full-Stack Development</strong>    •   
-☁️ <strong>Cloud Engineering</strong>    •   
-🗄️ <strong>Databases</strong>
-
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
+### 🌐 Frontend & Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vite" />
 </p>
 
-### ⚛️ Frameworks & Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
-</p>
+---
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
-### ☁️ Cloud & Engineering
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
-
-### 🔧 Tools & Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite" />
+<b>SQL • MongoDB • PostgreSQL • MySQL</b>
 </p>
 
 ---
 
-# 📊 Most Used Languages
+### ☁️ Cloud & Engineering
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Chethika&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="350"/>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+<p align="center">
+<b>AWS • Cloud Computing • Cloud Architecture • Scalable Applications</b>
+</p>
+
+---
+
+### 🔧 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
@@ -113,120 +168,122 @@
 
 ## 🎵 Spotify Clone
 
-A modern music streaming interface inspired by Spotify, built to strengthen frontend development skills and explore responsive UI design.
+> A modern music streaming web interface inspired by Spotify, developed to strengthen frontend engineering, responsive UI design, and component-based development.
 
 **Tech Stack**
 
 `React.js` `JavaScript` `Tailwind CSS` `Vite`
 
-**Highlights**
+### ✨ Highlights
 
-* 🎧 Music-focused user interface
-* 📱 Responsive design
+* 🎧 Music streaming inspired interface
 * ⚛️ Reusable React components
-* 🎨 Modern Tailwind CSS styling
-* ⚡ Fast development with Vite
+* 🎨 Modern Tailwind CSS UI
+* 📱 Responsive design
+* ⚡ Vite-powered development
+* 🧩 Component-based architecture
 
-🔗 **Repository:**
+🔗 **GitHub Repository**
+
 https://github.com/K-Chethika/Spotify-Clone
 
 ---
 
-## 💰 AI-Assisted Finance Tracker
+## 🤖 AI-Assisted Finance Tracker
 
-An intelligent finance management application designed to help users organize expenses, understand spending patterns, and make better financial decisions with the assistance of AI.
+> An intelligent finance management application designed to help users track expenses, understand spending patterns, and receive AI-assisted financial insights.
 
 **Tech Stack**
 
 `React` `JavaScript` `AI` `Database`
 
-**Highlights**
+### ✨ Highlights
 
-* 💳 Expense tracking
-* 📊 Financial insights
+* 💳 Expense management
+* 📊 Financial data visualization
 * 🤖 AI-assisted analysis
-* 📈 Spending pattern visualization
-* 💡 Smart financial recommendations
+* 📈 Spending pattern insights
+* 💡 Intelligent recommendations
 * 📱 User-friendly interface
 
-🚧 **Status:** In Development
+**Status:** 🚧 In Development
 
 ---
 
 ## 🏥 Carley Hospital Management System
 
-A hospital management system designed to help organize healthcare-related workflows and improve the management of hospital information.
+> A web-based hospital management system designed to organize hospital information and simplify healthcare-related workflows.
 
 **Tech Stack**
 
-`JavaScript` `React` `Database`
+`React` `JavaScript` `Database`
 
-**Highlights**
+### ✨ Highlights
 
 * 🧑‍⚕️ Patient management
 * 👨‍⚕️ Doctor management
 * 📅 Appointment management
 * 🏥 Hospital information management
-* 🗄️ Database-driven system
+* 🗄️ Database-driven architecture
 * 💻 Modern web interface
 
-🚧 **Status:** In Development
-
----
-
-# 🧠 Areas of Interest
-
-<p align="center">
-
-🤖 Artificial Intelligence
-🧠 Machine Learning
-✨ Generative AI
-🔗 AI Agents
-🐍 Python
-🌐 Full-Stack Development
-☁️ Cloud Engineering
-🗄️ Database Systems
-🧩 Software Engineering
-⚙️ Automation
-
-</p>
+**Status:** 🚧 In Development
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Chethika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Chethika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=K-Chethika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 
-# 🔥 Contribution Streak
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Chethika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Chethika&theme=tokyonight&hide_border=true" />
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Chethika&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Chethika&theme=tokyo-night&hide_border=true&area=true&custom_title=Kavindi's%20Contribution%20Graph" width="100%"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Chethika&theme=tokyo-night&hide_border=true&area=true&custom_title=Kavindi's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+# 💻 GitHub Profile
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/K-Chethika?style=for-the-badge\&logo=github\&label=Followers)
+
+![GitHub stars](https://img.shields.io/github/stars/K-Chethika?style=for-the-badge\&logo=github\&label=Stars)
+
+![GitHub repositories](https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge\&logo=github)
+
+</div>
 
 ---
 
 # 🎓 Education
 
-### Bachelor of Software Engineering Honours
+### 🎓 Bachelor of Software Engineering Honours
 
 **Open University of Sri Lanka**
 
 📅 **Expected Graduation: 2028**
 
-**Key Areas of Study**
+### 📚 Key Areas
 
 * Software Engineering
 * Web Application Development
@@ -243,78 +300,179 @@ A hospital management system designed to help organize healthcare-related workfl
 
 # 📜 Certifications & Continuous Learning
 
-I'm continuously expanding my knowledge through courses and hands-on learning in:
+Currently developing my skills through courses, certifications, projects, and hands-on experimentation.
 
-* 🤖 Artificial Intelligence
-* ✨ Generative AI
-* 🔗 AI Agents & Agentic AI
-* 🧠 Prompt Engineering
-* 🐍 Python
-* 🌐 Full-Stack Development
-* ☁️ Cloud Engineering
+### 🤖 AI
 
-> **Learning doesn't stop when the course ends — that's where building begins.**
+* Artificial Intelligence
+* Generative AI
+* AI Agents & Agentic AI
+* Prompt Engineering
+* AI-powered application development
+
+### 💻 Software Engineering
+
+* Python
+* Java
+* JavaScript
+* React
+* Database Systems
+* Problem Solving
+* System Design Principles
+
+### ☁️ Cloud
+
+* Cloud Computing
+* AWS
+* Cloud-based application development
+* Scalable system concepts
+
+> **Learn → Build → Experiment → Improve → Repeat.**
 
 ---
 
-# 🎯 2026 Focus
+# 🎯 2026 Goals
 
 ```text
-🤖 Strengthen Python & AI fundamentals
-🧠 Develop stronger Machine Learning knowledge
+🤖 Strengthen Artificial Intelligence fundamentals
+🧠 Build stronger Machine Learning knowledge
 ✨ Learn Generative AI & AI Agents
+🐍 Become stronger with Python for AI
 🌐 Improve Full-Stack Development
-☁️ Build Cloud Engineering skills
-🚀 Create practical AI-powered projects
+☁️ Strengthen Cloud Engineering skills
+🚀 Build practical AI-powered projects
 💼 Gain industry experience
-🧩 Improve problem-solving & algorithms
-📚 Continuously learn and experiment
+🧩 Improve algorithms & problem-solving
+📚 Continue learning through projects and certifications
 ```
+
+---
+
+# 🧩 Areas of Interest
+
+<div align="center">
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+✨ Generative AI
+
+🔗 AI Agents
+
+🐍 Python
+
+🌐 Full-Stack Development
+
+☁️ Cloud Engineering
+
+🗄️ Database Systems
+
+⚙️ Software Engineering
+
+🧩 System Design
+
+📊 Data & Analytics
+
+🤝 Automation
+
+</div>
 
 ---
 
 # 💡 Developer Philosophy
 
-<p align="center">
+<div align="center">
 
-### <i>"Build with curiosity. Solve with intelligence. Improve with every iteration."</i>
+### **"Don't just write code. Build solutions that matter."**
 
-</p>
+<br>
 
-<p align="center">
-  I believe great software is more than functionality.
-  <br>
-  It should solve meaningful problems, create a better user experience,
-  <br>
-  and continuously evolve with the people who use it.
-</p>
+<table>
+<tr>
+<td align="center">
+
+🔍
+**Understand**
+
+<br>
+
+Understand the problem before building the solution.
+
+</td>
+
+<td align="center">
+
+🧠
+**Think**
+
+<br>
+
+Use logic, creativity, and engineering principles.
+
+</td>
+
+<td align="center">
+
+🚀
+**Build**
+
+<br>
+
+Turn ideas into practical working applications.
+
+</td>
+
+<td align="center">
+
+📈
+**Improve**
+
+<br>
+
+Learn from every iteration and keep growing.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<i>
+I believe great developers are not defined only by the technologies they know,
+but by their ability to learn, adapt, solve problems, and create meaningful solutions.
+</i>
+
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/kavindichethika/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kavindi%20Chethika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/kavindichethika/">
+<img src="https://img.shields.io/badge/LinkedIn-Kavindi%20Chethika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:kavichethika26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:kavichethika26@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/K-Chethika">
-    <img src="https://img.shields.io/badge/GitHub-K--Chethika-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/K-Chethika">
+<img src="https://img.shields.io/badge/GitHub-K--Chethika-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CFFCB,100:7C3AED&height=120&section=footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>✨ Keep Learning · Keep Building · Keep Growing ✨</strong>
-</p>
+### 🚀 Building Today. Learning Every Day. Engineering the Future.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CFFCB,100:7C3AED&height=120&section=footer"/>
+
+</div>
