@@ -230,9 +230,9 @@ https://github.com/K-Chethika/Spotify-Clone
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=K-Chethika&theme=tokyo-night&hide_border=true&area=true&custom_title=Kavindi%27s%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=K-Chethika&bg_color=1a1b27&color=7CFFCB&line=7CFFCB&point=FFFFFF&area=true&hide_border=true"
     width="100%"
-    alt="Kavindi's GitHub Contribution Activity"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
