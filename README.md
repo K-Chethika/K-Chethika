@@ -226,19 +226,6 @@ https://github.com/K-Chethika/Spotify-Clone
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=K-Chethika&bg_color=1a1b27&color=7CFFCB&line=7CFFCB&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
-
----
-
 # 🎓 Education
 
 ### 🎓 Bachelor of Software Engineering Honours
