@@ -210,9 +210,7 @@ https://github.com/K-Chethika/Spotify-Clone
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=K-Chethika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Chethika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 
 </div>
 
