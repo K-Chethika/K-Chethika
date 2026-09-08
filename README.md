@@ -697,7 +697,7 @@ and continuously learn and improve.
 
 
 
-🔍 ### Understand
+🔍 **Understand**
 
 Understand the problem before building the solution.
 
@@ -705,7 +705,7 @@ Understand the problem before building the solution.
 
 <td align="center">
 
-🧠 ### Think
+🧠 **Think**
 
 Use logic, creativity, and engineering principles.
 
@@ -713,7 +713,7 @@ Use logic, creativity, and engineering principles.
 
 <td align="center">
 
-🚀 ### Build
+🚀 **Build**
 
 Turn ideas into practical working applications.
 
@@ -721,7 +721,7 @@ Turn ideas into practical working applications.
 
 <td align="center">
 
-📈 ### Improve
+📈 **Improve**
 
 Learn from every iteration and keep growing.
 
