@@ -617,58 +617,102 @@ Scalable Systems
 
 ---
 
-### 🚀 What I'm Building Toward
+# 🚀 What I'm Building Toward
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-🤖
+🔍
 
 <br>
 
-<b>INTELLIGENT SYSTEMS</b>
+<b>UNDERSTAND</b>
 
 <br><br>
 
-AI-powered applications
-that solve real problems.
+Understand real-world problems,
+requirements, and user needs
+before building a solution.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 🧠
 
 <br>
 
-<b>AI ENGINEERING</b>
+<b>THINK</b>
 
 <br><br>
 
-Machine Learning
-Generative AI & AI Agents
+Apply logical thinking,
+AI concepts, and software
+engineering principles.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-⚙️
+🚀
 
 <br>
 
-<b>REAL-WORLD SOLUTIONS</b>
+<b>BUILD</b>
 
 <br><br>
 
-Scalable software
-with practical impact.
+Create intelligent, scalable,
+and practical applications
+using AI, software, and cloud.
+
+</td>
+
+<td align="center" width="25%">
+
+📈
+
+<br>
+
+<b>IMPROVE</b>
+
+<br><br>
+
+Learn from every project,
+experiment with new technologies,
+and continuously improve.
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### ☁️ AI + Software Engineering + Cloud
+
+<br>
+
+🤖 **Intelligent Systems**   •  
+💻 **Software Engineering**   •  
+☁️ **Cloud Engineering**
+
+<br><br>
+
+<i>
+
+I believe great developers are not defined only by the technologies they know,
+but by their ability to understand problems, think creatively, build practical solutions,
+and continuously learn and improve.
+
+</i>
+
+</div>
+
 
 <br>
 
