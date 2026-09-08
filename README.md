@@ -185,18 +185,6 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 ---
 
-## 📌 Project Overview
-
-| Project                       |      Type     | Main Focus                |       Status      |
-| :---------------------------- | :-----------: | :------------------------ | :---------------: |    |
-| 🤖 **AI Finance Tracker**     |    👥 Group   | AI & Financial Management | 🚧 In Development |
-| 🏥 **Carley Hospital System** |    👥 Group   | Healthcare Management     | 🚧 In Development |
-
-> 💡 **Note:** The AI-Assisted Finance Tracker and Carley Hospital Management System are collaborative group projects.
-
-
----
-
 <div align="center">
 
 ## 📌 Project Overview
