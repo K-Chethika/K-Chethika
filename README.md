@@ -462,58 +462,158 @@ I'm continuously developing my skills through **courses, certifications, project
 
 </div>
 ---
+---
+
 # 🧩 Areas of Interest
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=7CFFCB&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%E2%80%A2+Machine+Learning+%E2%80%A2+Generative+AI;Building+Intelligent+Systems+%E2%80%A2+Solving+Real-World+Problems+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=850&lines=Exploring+AI+%E2%80%A2+Building+Intelligent+Systems;Engineering+Software+That+Solves+Real-World+Problems+%F0%9F%9A%80" alt="Areas of Interest"/>
 
 <br><br>
 
-### 🤖 AI & Intelligent Systems
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7CFFCB?style=for-the-badge&logoColor=black" />
+<td align="center" width="25%">
+
+### 🤖
+
+**Artificial Intelligence**
+
+<br>
+
+Intelligent Applications
+AI-Powered Solutions
+AI Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Machine Learning**
+
+<br>
+
+ML Fundamentals
+Predictive Models
+Data-Driven Solutions
+
+</td>
+
+<td align="center" width="25%">
+
+### ✨
+
+**Generative AI**
+
+<br>
+
+LLMs
+Prompt Engineering
+AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔗
+
+**AI Agents**
+
+<br>
+
+Agentic AI
+AI Workflows
+Automation
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**AI with Python**
+
+<br>
+
+Python Development
+Data Analysis
+Problem Solving
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Software Engineering**
+
+<br>
+
+System Design
+OOP
+Software Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Full-Stack Development**
+
+<br>
+
+Web Applications
+React
+Backend Development
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Cloud Engineering**
+
+<br>
+
+AWS
+Cloud Computing
+Scalable Systems
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 🚀 My Direction
+
+<img src="https://img.shields.io/badge/AI%20Engineering-7CFFCB?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Machine%20Learning-7CFFCB?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Generative%20AI-7CFFCB?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/AI%20Agents-7CFFCB?style=for-the-badge&logoColor=black" />
 
 <br><br>
 
-### 🧠 Data & Intelligence
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=7CFFCB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%A7%A0" alt="Direction Animation"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analysis-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/LLMs-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7CFFCB?style=for-the-badge&logoColor=black" />
+</div>
 
-<br><br>
-
-### 💻 Software Engineering
-
-<img src="https://img.shields.io/badge/Software%20Engineering-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/System%20Design-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Problem%20Solving-7CFFCB?style=for-the-badge&logoColor=black" />
-
-<br><br>
-
-### 🌐 Application Development
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Web%20Applications-7CFFCB?style=for-the-badge&logoColor=black" />
-
-<br><br>
-
-### ☁️ Cloud & Data Systems
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Computing-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/NoSQL-7CFFCB?style=for-the-badge&logoColor=black" />
-
-<br><br>
+---
 
 ---
 
