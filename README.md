@@ -125,13 +125,13 @@ to create practical, scalable, and user-focused solutions.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 </p>
 
 <p align="center">
 
-<b>SQL • MongoDB • PostgreSQL • MySQL</b>
+<b>SQL • MongoDB  • MySQL</b>
 
 </p>
 
@@ -147,7 +147,7 @@ to create practical, scalable, and user-focused solutions.
 
 <p align="center">
 
-<b>AWS • Cloud Computing • Cloud Architecture • Scalable Applications</b>
+<b>AWS • Cloud Computing  • Scalable Applications</b>
 
 </p>
 
@@ -461,163 +461,121 @@ I'm continuously developing my skills through **courses, certifications, project
 ```
 
 </div>
-
 ---
-
 # 🧩 Areas of Interest
 
 <div align="center">
 
-### 🤖 AI • 🧠 Machine Learning • 💻 Software Engineering
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=7CFFCB&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%E2%80%A2+Machine+Learning+%E2%80%A2+Generative+AI;Building+Intelligent+Systems+%E2%80%A2+Solving+Real-World+Problems+%F0%9F%9A%80" />
 
-<br>
+<br><br>
+
+### 🤖 AI & Intelligent Systems
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Machine%20Learning-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Generative%20AI-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20Agents-7CFFCB?style=for-the-badge&logoColor=black" />
+
+<br><br>
+
+### 🧠 Data & Intelligence
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analysis-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/LLMs-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7CFFCB?style=for-the-badge&logoColor=black" />
+
+<br><br>
+
+### 💻 Software Engineering
+
+<img src="https://img.shields.io/badge/Software%20Engineering-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/System%20Design-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Problem%20Solving-7CFFCB?style=for-the-badge&logoColor=black" />
+
+<br><br>
+
+### 🌐 Application Development
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Web%20Applications-7CFFCB?style=for-the-badge&logoColor=black" />
+
+<br><br>
+
+### ☁️ Cloud & Data Systems
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-7CFFCB?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/NoSQL-7CFFCB?style=for-the-badge&logoColor=black" />
+
+<br><br>
+
+---
+
+### 🚀 What I'm Building Toward
 
 <table>
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="33%">
 
-<h3>🤖</h3>
+🤖
 
-<b>Artificial Intelligence</b>
+<br>
+
+<b>INTELLIGENT SYSTEMS</b>
 
 <br><br>
 
-AI Applications
-Intelligent Systems
-AI Problem Solving
+AI-powered applications
+that solve real problems.
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="33%">
 
-<h3>🧠</h3>
+🧠
 
-<b>Machine Learning</b>
+<br>
+
+<b>AI ENGINEERING</b>
 
 <br><br>
 
-ML Fundamentals
-Predictive Models
-Data-Driven Solutions
+Machine Learning
+Generative AI & AI Agents
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="33%">
 
-<h3>✨</h3>
+⚙️
 
-<b>Generative AI</b>
+<br>
 
-<br><br>
-
-LLMs
-Prompt Engineering
-AI Applications
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="220">
-
-<h3>🔗</h3>
-
-<b>AI Agents</b>
+<b>REAL-WORLD SOLUTIONS</b>
 
 <br><br>
 
-Agentic AI
-AI Workflows
-Automation
-
-</td>
-
-<td align="center" width="220">
-
-<h3>🐍</h3>
-
-<b>Python & Data</b>
-
-<br><br>
-
-Python
-Data Analysis
-Problem Solving
-
-</td>
-
-<td align="center" width="220">
-
-<h3>🌐</h3>
-
-<b>Full-Stack Development</b>
-
-<br><br>
-
-React
-JavaScript
-Web Applications
+Scalable software
+with practical impact.
 
 </td>
 
 </tr>
-
-<tr>
-
-<td align="center" width="220">
-
-<h3>☁️</h3>
-
-<b>Cloud Engineering</b>
-
-<br><br>
-
-AWS
-Cloud Computing
-Scalable Systems
-
-</td>
-
-<td align="center" width="220">
-
-<h3>⚙️</h3>
-
-<b>Software Engineering</b>
-
-<br><br>
-
-System Design
-OOP
-Clean Architecture
-
-</td>
-
-<td align="center" width="220">
-
-<h3>🗄️</h3>
-
-<b>Data & Databases</b>
-
-<br><br>
-
-SQL
-NoSQL
-Database Systems
-
-</td>
-
-</tr>
-
 </table>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7CFFCB&center=true&vCenter=true&width=750&lines=Exploring+AI+%E2%86%92+Building+Systems+%E2%86%92+Solving+Problems;Learning+Today+%E2%86%92+Building+Tomorrow+%F0%9F%9A%80" alt="Interest Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=7CFFCB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;AI+%2B+Software+Engineering+%2B+Cloud+%3D+%F0%9F%9A%80" />
 
 </div>
+
 
 
 🔍
@@ -669,42 +627,6 @@ I believe great developers are not defined only by the technologies they know,
 but by their ability to learn, adapt, solve problems, and create meaningful solutions.
 
 </i>
-
-</div>
-
----
-
-# 📈 My Development Journey
-
-<div align="center">
-
-```text
-Python Fundamentals
-        │
-        ▼
-Object-Oriented Programming
-        │
-        ▼
-Web Development
-        │
-        ▼
-React & Full-Stack Development
-        │
-        ▼
-Cloud Technologies
-        │
-        ▼
-Artificial Intelligence
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Generative AI & AI Agents
-        │
-        ▼
-     🚀 AI Engineer
-```
 
 </div>
 
