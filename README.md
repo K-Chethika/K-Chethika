@@ -141,163 +141,59 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 # 🚀 Featured Projects & Contributions
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&text=MY%20PROJECTS&fontColor=ffffff&fontSize=30&animation=fadeIn&stroke=7CFFCB&strokeWidth=1" />
-
-<br>
-
-<p>
-<i>Turning ideas into practical software solutions through code, AI, and teamwork.</i>
-</p>
-
-</div>
-
----
-
-## 🎵 Spotify Clone
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7CFFCB&center=true&vCenter=true&width=550&lines=🎧+Music+Streaming+Interface;⚛️+React+Component+Architecture;🎨+Responsive+UI+Design" width="550"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PROJECT-INDIVIDUAL-7CFFCB?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge&labelColor=161B22"/>
-
-</div>
-
-> 🎧 A modern music streaming web interface inspired by Spotify, developed to strengthen frontend engineering, responsive UI design, and component-based development.
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,javascript,tailwind,vite" />
-
-</div>
-
-### ✨ Highlights
-
-|    | Feature                            |
-| -- | ---------------------------------- |
-| 🎧 | Music streaming inspired interface |
-| ⚛️ | Reusable React components          |
-| 🎨 | Modern Tailwind CSS UI             |
-| 📱 | Responsive design                  |
-| ⚡  | Vite-powered development           |
-| 🧩 | Component-based architecture       |
-
-<div align="center">
-
-<a href="https://github.com/K-Chethika/Spotify-Clone">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 ## 🤖 AI-Assisted Finance Tracker
 
-<div align="center">
+> A collaborative finance management application designed to help users track expenses, understand spending patterns, and receive AI-assisted financial insights.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=AI%20%2B%20FINANCE&fontColor=ffffff&fontSize=28&animation=twinkling" />
+**Tech Stack:**
+`React` `JavaScript` `AI` `Database`
 
-<br>
+### ✨ Features
 
-<img src="https://img.shields.io/badge/PROJECT-GROUP-7CFFCB?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge&labelColor=161B22"/>
+* 💳 Expense management
+* 📊 Financial data visualization
+* 🤖 AI-assisted financial analysis
+* 📈 Spending pattern insights
+* 💡 Intelligent recommendations
+* 📱 User-friendly interface
 
-</div>
-
-> 💰 A collaborative finance management application designed to help users track expenses, understand spending patterns, and receive AI-assisted financial insights.
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,javascript" />
-
-<br><br>
-
-`Artificial Intelligence`   `Database`   `Data Visualization`
-
-</div>
-
-### ✨ Highlights
-
-|    | Feature                        |
-| -- | ------------------------------ |
-| 💳 | Expense management             |
-| 📊 | Financial data visualization   |
-| 🤖 | AI-assisted financial analysis |
-| 📈 | Spending pattern insights      |
-| 💡 | Intelligent recommendations    |
-| 📱 | User-friendly interface        |
-| 👥 | Collaborative development      |
-
-### 👥 Project Type
-
-<div align="center">
-
-**🤝 GROUP PROJECT**
-
-This project was developed collaboratively as part of a team.
-
-</div>
+**Project Type:** 👥 Group Project
+**Status:** 🚧 In Development
 
 ---
 
 ## 🏥 Carley Hospital Management System
 
-<div align="center">
+> A collaborative web-based hospital management system designed to organize hospital information and simplify healthcare-related workflows.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=HEALTHCARE%20SYSTEM&fontColor=ffffff&fontSize=26&animation=twinkling" />
+**Tech Stack:**
+`React` `JavaScript` `Database`
 
-<br>
+### ✨ Features
 
-<img src="https://img.shields.io/badge/PROJECT-GROUP-7CFFCB?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge&labelColor=161B22"/>
+* 🧑‍⚕️ Patient management
+* 👨‍⚕️ Doctor management
+* 📅 Appointment management
+* 🏥 Hospital information management
+* 🗄️ Database-driven system
+* 💻 Modern web interface
 
-</div>
+**Project Type:** 👥 Group Project
+**Status:** 🚧 In Development
 
-> 🏥 A collaborative web-based hospital management system designed to organize hospital information and simplify healthcare-related workflows.
+---
 
-### 🛠️ Tech Stack
+## 📌 Project Overview
 
-<div align="center">
+| Project                       |      Type     | Main Focus                |       Status      |
+| :---------------------------- | :-----------: | :------------------------ | :---------------: |    |
+| 🤖 **AI Finance Tracker**     |    👥 Group   | AI & Financial Management | 🚧 In Development |
+| 🏥 **Carley Hospital System** |    👥 Group   | Healthcare Management     | 🚧 In Development |
 
-<img src="https://skillicons.dev/icons?i=react,javascript" />
+> 💡 **Note:** The AI-Assisted Finance Tracker and Carley Hospital Management System are collaborative group projects.
 
-<br><br>
-
-`Database`   `Web Application`   `System Design`
-
-</div>
-
-### ✨ Highlights
-
-|       | Feature                         |
-| ----- | ------------------------------- |
-| 🧑‍⚕️ | Patient management              |
-| 👨‍⚕️ | Doctor management               |
-| 📅    | Appointment management          |
-| 🏥    | Hospital information management |
-| 🗄️   | Database-driven architecture    |
-| 💻    | Modern web interface            |
-| 👥    | Team-based development          |
-
-### 👥 Project Type
-
-<div align="center">
-
-**🤝 GROUP PROJECT**
-
-This project was developed collaboratively as part of a team.
-
-</div>
 
 ---
 
