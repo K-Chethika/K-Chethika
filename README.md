@@ -692,55 +692,6 @@ and continuously learn and improve.
 
 </div>
 
-
-</div>
-
-
-
-🔍 **Understand**
-
-Understand the problem before building the solution.
-
-</td>
-
-<td align="center">
-
-🧠 **Think**
-
-Use logic, creativity, and engineering principles.
-
-</td>
-
-<td align="center">
-
-🚀 **Build**
-
-Turn ideas into practical working applications.
-
-</td>
-
-<td align="center">
-
-📈 **Improve**
-
-Learn from every iteration and keep growing.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<i>
-
-I believe great developers are not defined only by the technologies they know,
-but by their ability to learn, adapt, solve problems, and create meaningful solutions.
-
-</i>
-
-</div>
-
 ---
 
 # 🤝 Let's Connect
