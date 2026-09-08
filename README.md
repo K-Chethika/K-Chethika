@@ -8,8 +8,11 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=KAVINDI%20CHETHIKA&fontColor=ffffff&fontSize=46&animation=fadeIn&stroke=7CFFCB&strokeWidth=1" />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=KAVINDI%20CHETHIKA&fontColor=ffffff&fontSize=48&fontWeight=700&animation=fadeIn&stroke=7CFFCB&strokeWidth=1" />
+
+</div>
 <br>
 
 <p>
