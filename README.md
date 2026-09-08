@@ -143,9 +143,9 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 <div align="center">
 
-### 🎵 Spotify Clone
+## 🎵 Spotify Clone
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=7CFFCB&center=true&vCenter=true&width=500&lines=Frontend+Development;React+%7C+Tailwind+CSS+%7C+Vite;Responsive+Music+Player+UI" alt="Spotify Clone Animation"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" alt="Spotify Animation">
 
 </div>
 
@@ -157,14 +157,12 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 ### ✨ Highlights
 
-* 🎧 Music streaming inspired interface
-* ⚛️ Reusable React components
-* 🎨 Modern Tailwind CSS UI
-* 📱 Responsive design
-* ⚡ Vite-powered development
-* 🧩 Component-based architecture
-
-**Project Type:** 👤 Individual Project
+- 🎧 Music streaming inspired interface
+- ⚛️ Reusable React components
+- 🎨 Modern Tailwind CSS UI
+- 📱 Responsive design
+- ⚡ Vite-powered development
+- 🧩 Component-based architecture
 
 🔗 [**GitHub Repository**](https://github.com/K-Chethika/Spotify-Clone)
 
@@ -172,9 +170,9 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 <div align="center">
 
-### 🤖 AI-Assisted Finance Tracker
+## 🤖 AI-Assisted Finance Tracker
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=7CFFCB&center=true&vCenter=true&width=600&lines=Group+Project;AI-Powered+Finance+Management;Analytics+%7C+AI+%7C+Database" alt="Finance Tracker Animation"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" alt="AI Animation">
 
 </div>
 
@@ -186,18 +184,15 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 ### ✨ Highlights
 
-* 💳 Expense management
-* 📊 Financial data visualization
-* 🤖 AI-assisted financial analysis
-* 📈 Spending pattern insights
-* 💡 Intelligent recommendations
-* 📱 User-friendly interface
-* 🤝 Collaborative software development
+- 💳 Expense management
+- 📊 Financial data visualization
+- 🤖 AI-assisted financial analysis
+- 📈 Spending pattern insights
+- 💡 Intelligent recommendations
+- 📱 User-friendly interface
+- 🤝 Collaborative software development
 
 **Project Type:** 👥 **Group Project**
-
-**My Contribution:**
-Contributed to the development and implementation of assigned features as part of a collaborative team.
 
 **Status:** 🚧 In Development
 
@@ -205,9 +200,9 @@ Contributed to the development and implementation of assigned features as part o
 
 <div align="center">
 
-### 🏥 Carley Hospital Management System
+## 🏥 Carley Hospital Management System
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=7CFFCB&center=true&vCenter=true&width=600&lines=Group+Project;Healthcare+Management+System;React+%7C+Database+%7C+Web+Development" alt="Hospital System Animation"/>
+<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="500" alt="Healthcare Animation">
 
 </div>
 
@@ -219,18 +214,15 @@ Contributed to the development and implementation of assigned features as part o
 
 ### ✨ Highlights
 
-* 🧑‍⚕️ Patient management
-* 👨‍⚕️ Doctor management
-* 📅 Appointment management
-* 🏥 Hospital information management
-* 🗄️ Database-driven architecture
-* 💻 Modern web interface
-* 🤝 Team-based software development
+- 🧑‍⚕️ Patient management
+- 👨‍⚕️ Doctor management
+- 📅 Appointment management
+- 🏥 Hospital information management
+- 🗄️ Database-driven architecture
+- 💻 Modern web interface
+- 🤝 Team-based software development
 
 **Project Type:** 👥 **Group Project**
-
-**My Contribution:**
-Contributed to the development of the system as part of a collaborative team, including implementation of assigned features and software development tasks.
 
 **Status:** 🚧 In Development
 
