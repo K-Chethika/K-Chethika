@@ -30,14 +30,6 @@
 
 <br><br>
 
-<a href="https://github.com/K-Chethika">
-<img src="https://img.shields.io/github/followers/K-Chethika?label=Followers&style=for-the-badge&color=7CFFCB&labelColor=0D1117" />
-</a>
-
-<a href="https://github.com/K-Chethika?tab=repositories">
-<img src="https://img.shields.io/github/stars/K-Chethika?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7CFFCB&labelColor=0D1117" />
-</a>
-
 </div>
 
 ---
@@ -476,68 +468,157 @@ I'm continuously developing my skills through **courses, certifications, project
 
 <div align="center">
 
-🤖 **Artificial Intelligence**
-
-  •  
-
-🧠 **Machine Learning**
-
-  •  
-
-✨ **Generative AI**
-
-<br><br>
-
-🔗 **AI Agents**
-
-  •  
-
-🐍 **Python**
-
-  •  
-
-🌐 **Full-Stack Development**
-
-<br><br>
-
-☁️ **Cloud Engineering**
-
-  •  
-
-🗄️ **Database Systems**
-
-  •  
-
-⚙️ **Software Engineering**
-
-<br><br>
-
-🧩 **System Design**
-
-  •  
-
-📊 **Data & Analytics**
-
-  •  
-
-🤝 **Automation**
-
-</div>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### **"Don't just write code. Build solutions that matter."**
+### 🤖 AI • 🧠 Machine Learning • 💻 Software Engineering
 
 <br>
 
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="220">
+
+<h3>🤖</h3>
+
+<b>Artificial Intelligence</b>
+
+<br><br>
+
+AI Applications
+Intelligent Systems
+AI Problem Solving
+
+</td>
+
+<td align="center" width="220">
+
+<h3>🧠</h3>
+
+<b>Machine Learning</b>
+
+<br><br>
+
+ML Fundamentals
+Predictive Models
+Data-Driven Solutions
+
+</td>
+
+<td align="center" width="220">
+
+<h3>✨</h3>
+
+<b>Generative AI</b>
+
+<br><br>
+
+LLMs
+Prompt Engineering
+AI Applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+
+<h3>🔗</h3>
+
+<b>AI Agents</b>
+
+<br><br>
+
+Agentic AI
+AI Workflows
+Automation
+
+</td>
+
+<td align="center" width="220">
+
+<h3>🐍</h3>
+
+<b>Python & Data</b>
+
+<br><br>
+
+Python
+Data Analysis
+Problem Solving
+
+</td>
+
+<td align="center" width="220">
+
+<h3>🌐</h3>
+
+<b>Full-Stack Development</b>
+
+<br><br>
+
+React
+JavaScript
+Web Applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+
+<h3>☁️</h3>
+
+<b>Cloud Engineering</b>
+
+<br><br>
+
+AWS
+Cloud Computing
+Scalable Systems
+
+</td>
+
+<td align="center" width="220">
+
+<h3>⚙️</h3>
+
+<b>Software Engineering</b>
+
+<br><br>
+
+System Design
+OOP
+Clean Architecture
+
+</td>
+
+<td align="center" width="220">
+
+<h3>🗄️</h3>
+
+<b>Data & Databases</b>
+
+<br><br>
+
+SQL
+NoSQL
+Database Systems
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7CFFCB&center=true&vCenter=true&width=750&lines=Exploring+AI+%E2%86%92+Building+Systems+%E2%86%92+Solving+Problems;Learning+Today+%E2%86%92+Building+Tomorrow+%F0%9F%9A%80" alt="Interest Animation"/>
+
+</div>
+
 
 🔍
 
