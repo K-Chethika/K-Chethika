@@ -139,7 +139,7 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects & Contributions
 
 ## 🎵 Spotify Clone
 
@@ -158,6 +158,8 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 * ⚡ Vite-powered development
 * 🧩 Component-based architecture
 
+**Project Type:** 👤 Individual Project
+
 🔗 **GitHub Repository**
 
 https://github.com/K-Chethika/Spotify-Clone
@@ -166,7 +168,7 @@ https://github.com/K-Chethika/Spotify-Clone
 
 ## 🤖 AI-Assisted Finance Tracker
 
-> An intelligent finance management application designed to help users track expenses, understand spending patterns, and receive AI-assisted financial insights.
+> A collaborative finance management application designed to help users track expenses, understand spending patterns, and receive AI-assisted financial insights.
 
 **Tech Stack**
 
@@ -176,10 +178,16 @@ https://github.com/K-Chethika/Spotify-Clone
 
 * 💳 Expense management
 * 📊 Financial data visualization
-* 🤖 AI-assisted analysis
+* 🤖 AI-assisted financial analysis
 * 📈 Spending pattern insights
 * 💡 Intelligent recommendations
 * 📱 User-friendly interface
+* 🤝 Collaborative software development
+
+**Project Type:** 👥 Group Project
+
+**My Contribution:**
+Contributed to the development and implementation of features as part of a collaborative team.
 
 **Status:** 🚧 In Development
 
@@ -187,7 +195,7 @@ https://github.com/K-Chethika/Spotify-Clone
 
 ## 🏥 Carley Hospital Management System
 
-> A web-based hospital management system designed to organize hospital information and simplify healthcare-related workflows.
+> A collaborative web-based hospital management system designed to organize hospital information and simplify healthcare-related workflows.
 
 **Tech Stack**
 
@@ -201,8 +209,25 @@ https://github.com/K-Chethika/Spotify-Clone
 * 🏥 Hospital information management
 * 🗄️ Database-driven architecture
 * 💻 Modern web interface
+* 🤝 Team-based software development
+
+**Project Type:** 👥 Group Project
+
+**My Contribution:**
+Contributed to the development of the system as part of a collaborative team, including implementation of assigned features and software development tasks.
 
 **Status:** 🚧 In Development
+
+---
+
+### 📌 Project Experience
+
+| Project                              | Type          | Main Focus                |
+| ------------------------------------ | ------------- | ------------------------- |
+| 🎵 Spotify Clone                     | 👤 Individual | Frontend & UI Development |
+| 🤖 AI-Assisted Finance Tracker       | 👥 Group      | AI & Financial Management |
+| 🏥 Carley Hospital Management System | 👥 Group      | Healthcare Management     |
+
 
 ---
 
