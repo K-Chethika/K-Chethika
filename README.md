@@ -141,9 +141,15 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 # 🚀 Featured Projects & Contributions
 
-## 🎵 Spotify Clone
+<div align="center">
 
-> A modern music streaming web interface inspired by Spotify, developed to strengthen frontend engineering, responsive UI design, and component-based development.
+### 🎵 Spotify Clone
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=7CFFCB&center=true&vCenter=true&width=500&lines=Frontend+Development;React+%7C+Tailwind+CSS+%7C+Vite;Responsive+Music+Player+UI" alt="Spotify Clone Animation"/>
+
+</div>
+
+> 🎧 A modern music streaming web interface inspired by Spotify, developed to strengthen frontend engineering, responsive UI design, and component-based development.
 
 **Tech Stack**
 
@@ -160,15 +166,19 @@ I'm interested in combining **AI + Software Engineering + Cloud technologies** t
 
 **Project Type:** 👤 Individual Project
 
-🔗 **GitHub Repository**
-
-https://github.com/K-Chethika/Spotify-Clone
+🔗 [**GitHub Repository**](https://github.com/K-Chethika/Spotify-Clone)
 
 ---
 
-## 🤖 AI-Assisted Finance Tracker
+<div align="center">
 
-> A collaborative finance management application designed to help users track expenses, understand spending patterns, and receive AI-assisted financial insights.
+### 🤖 AI-Assisted Finance Tracker
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=7CFFCB&center=true&vCenter=true&width=600&lines=Group+Project;AI-Powered+Finance+Management;Analytics+%7C+AI+%7C+Database" alt="Finance Tracker Animation"/>
+
+</div>
+
+> 💰 A collaborative finance management application designed to help users track expenses, understand spending patterns, and receive AI-assisted financial insights.
 
 **Tech Stack**
 
@@ -184,18 +194,24 @@ https://github.com/K-Chethika/Spotify-Clone
 * 📱 User-friendly interface
 * 🤝 Collaborative software development
 
-**Project Type:** 👥 Group Project
+**Project Type:** 👥 **Group Project**
 
 **My Contribution:**
-Contributed to the development and implementation of features as part of a collaborative team.
+Contributed to the development and implementation of assigned features as part of a collaborative team.
 
 **Status:** 🚧 In Development
 
 ---
 
-## 🏥 Carley Hospital Management System
+<div align="center">
 
-> A collaborative web-based hospital management system designed to organize hospital information and simplify healthcare-related workflows.
+### 🏥 Carley Hospital Management System
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=7CFFCB&center=true&vCenter=true&width=600&lines=Group+Project;Healthcare+Management+System;React+%7C+Database+%7C+Web+Development" alt="Hospital System Animation"/>
+
+</div>
+
+> 🏥 A collaborative web-based hospital management system designed to organize hospital information and simplify healthcare-related workflows.
 
 **Tech Stack**
 
@@ -211,7 +227,7 @@ Contributed to the development and implementation of features as part of a colla
 * 💻 Modern web interface
 * 🤝 Team-based software development
 
-**Project Type:** 👥 Group Project
+**Project Type:** 👥 **Group Project**
 
 **My Contribution:**
 Contributed to the development of the system as part of a collaborative team, including implementation of assigned features and software development tasks.
@@ -220,14 +236,17 @@ Contributed to the development of the system as part of a collaborative team, in
 
 ---
 
+<div align="center">
+
 ### 📌 Project Experience
 
-| Project                              | Type          | Main Focus                |
-| ------------------------------------ | ------------- | ------------------------- |
-| 🎵 Spotify Clone                     | 👤 Individual | Frontend & UI Development |
-| 🤖 AI-Assisted Finance Tracker       | 👥 Group      | AI & Financial Management |
-| 🏥 Carley Hospital Management System | 👥 Group      | Healthcare Management     |
+|            Project            |      Type     |         Main Focus        |
+| :---------------------------: | :-----------: | :-----------------------: |
+|      🎵 **Spotify Clone**     | 👤 Individual | Frontend & UI Development |
+|   🤖 **AI Finance Tracker**   |    👥 Group   | AI & Financial Management |
+| 🏥 **Carley Hospital System** |    👥 Group   |   Healthcare Management   |
 
+</div>
 
 ---
 
