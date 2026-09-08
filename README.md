@@ -461,8 +461,7 @@ I'm continuously developing my skills through **courses, certifications, project
 ```
 
 </div>
----
----
+
 
 # 🧩 Areas of Interest
 
@@ -603,7 +602,6 @@ Scalable Systems
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=7CFFCB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%A7%A0" alt="Direction Animation"/>
 
 </div>
----
 
 # 🚀 What I'm Building Toward
 
@@ -676,13 +674,6 @@ and continuously improve.
 
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-### ☁️ AI + Software Engineering + Cloud
-
 <br>
 
 🤖 **Intelligent Systems**   •  
@@ -706,9 +697,7 @@ and continuously learn and improve.
 
 
 
-🔍
-
-### Understand
+🔍 ### Understand
 
 Understand the problem before building the solution.
 
@@ -716,9 +705,7 @@ Understand the problem before building the solution.
 
 <td align="center">
 
-🧠
-
-### Think
+🧠 ### Think
 
 Use logic, creativity, and engineering principles.
 
@@ -726,9 +713,7 @@ Use logic, creativity, and engineering principles.
 
 <td align="center">
 
-🚀
-
-### Build
+🚀 ### Build
 
 Turn ideas into practical working applications.
 
@@ -736,9 +721,7 @@ Turn ideas into practical working applications.
 
 <td align="center">
 
-📈
-
-### Improve
+📈 ### Improve
 
 Learn from every iteration and keep growing.
 
