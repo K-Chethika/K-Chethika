@@ -600,21 +600,9 @@ Scalable Systems
 
 <br>
 
-### 🚀 My Direction
-
-<img src="https://img.shields.io/badge/AI%20Engineering-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Machine%20Learning-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Generative%20AI-7CFFCB?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20Agents-7CFFCB?style=for-the-badge&logoColor=black" />
-
-<br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=7CFFCB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%A7%A0" alt="Direction Animation"/>
 
 </div>
-
----
-
 ---
 
 # 🚀 What I'm Building Toward
@@ -713,10 +701,6 @@ and continuously learn and improve.
 
 </div>
 
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=7CFFCB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;AI+%2B+Software+Engineering+%2B+Cloud+%3D+%F0%9F%9A%80" />
 
 </div>
 
