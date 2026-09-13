@@ -160,7 +160,7 @@ to create practical, scalable, and user-focused solutions.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </p>
 
