@@ -191,13 +191,9 @@ to create practical, scalable, and user-focused solutions.
 * 💰 LKR-based pricing
 * 🔐 Registration & login interface
 * 🔑 Forgot-password interface
-* 📝 Interactive forms
-* ✅ Client-side form validation
-* 📱 Mobile-first responsive design
 * 🎨 Modern UI/UX
 * ✨ CSS animations & smooth transitions
 * 📐 CSS Grid & Flexbox layouts
-* ⚡ Vanilla JavaScript
 
 **Tech Stack**
 
@@ -225,9 +221,7 @@ to create practical, scalable, and user-focused solutions.
 * ⏯️ Play / pause controls
 * ⏮️ Previous song control
 * ⏭️ Next song control
-* 🔊 Volume control interface
 * 📱 Responsive design
-* 🌙 Modern dark theme
 * 🧩 Reusable React components
 * ⚡ Vite-powered development
 * 🎨 Tailwind CSS styling
