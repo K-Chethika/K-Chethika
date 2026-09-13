@@ -1,359 +1,699 @@
+then redesign github <!-- ======================= AI ENGINEER GITHUB PROFILE ======================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Kavindi Chethika
+<!-- Animated Typing Header -->
 
-### Software Engineering Undergraduate | Aspiring AI Engineer
-
-**Building practical software with Python, AI, and modern web technologies.**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=7CFFCB&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Kavindi+Chethika+%F0%9F%91%8B;Software+Engineering+Undergraduate+%F0%9F%92%BB;Aspiring+AI+Engineer+%F0%9F%A4%96;Building+AI-Powered+Applications+%F0%9F%A7%A0;Full-Stack+Developer+%7C+AI+%7C+Cloud+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/K-Chethika">
-  <img src="https://img.shields.io/badge/GitHub-K--Chethika-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/kavindichethika/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kavindi%20Chethika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:kavichethika26@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<div align="center">
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=KAVINDI%20CHETHIKA&fontColor=ffffff&fontSize=48&fontWeight=700&animation=fadeIn&stroke=7CFFCB&strokeWidth=1" />
+
+</div>
+<br>
+
+<p>
+  <strong>🤖 Aspiring AI Engineer</strong>
+  &nbsp; • &nbsp;
+  <strong>🌐 Full-Stack Developer</strong>
+  &nbsp; • &nbsp;
+  <strong>☁️ Cloud Enthusiast</strong>
+</p>
+
+<p>
+  <em>Building intelligent software that solves real-world problems.</em>
+</p>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=K-Chethika&label=PROFILE%20VIEWS&color=7CFFCB&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm a **Software Engineering undergraduate at the Open University of Sri Lanka**, interested in building software that solves practical problems.
+Hi! I'm **Kavindi Chethika**, a Software Engineering undergraduate from Sri Lanka with a growing passion for **Artificial Intelligence, intelligent software systems, and modern application development**.
 
-My current direction is focused on combining:
+I'm interested in combining:
 
-**🤖 Artificial Intelligence + 💻 Software Engineering + 🌐 Full-Stack Development + ☁️ Cloud**
+**🤖 AI + 💻 Software Engineering + ☁️ Cloud + 🌐 Full-Stack Development**
 
-I enjoy learning by building projects and experimenting with new technologies.
+to create practical, scalable, and user-focused solutions.
 
 ```text
 🎓 Software Engineering Undergraduate
 🤖 Aspiring AI Engineer
-🐍 Python Developer
-🌐 Full-Stack Development
-✨ Generative AI
-☁️ Cloud Computing
-🧠 Problem Solving
+🐍 Python & AI Enthusiast
+🌐 Full-Stack Developer
+☁️ Cloud Engineering Enthusiast
+🧠 Problem Solver
+🚀 Project-Based Learner
 🇱🇰 Sri Lanka
 ```
 
----
+### 🌱 Currently Learning
 
-## 🎯 Current Focus
-
-* 🤖 Artificial Intelligence and Machine Learning
-* ✨ Generative AI and LLM applications
-* 🔗 AI Agents and Agentic AI
-* 🐍 Python for AI and software development
+* 🤖 Artificial Intelligence & Machine Learning
+* ✨ Generative AI
+* 🔗 AI Agents & Agentic AI
+* 🐍 Python for AI
 * 🌐 Full-Stack Web Development
-* ☁️ Cloud Computing
-* 🗄️ SQL and NoSQL databases
-* ⚙️ Software Engineering and system design
+* ☁️ Cloud Engineering
+* 🗄️ Database Systems
+* ⚙️ Software Engineering & System Design
 
 ---
 
-## 🛠️ Technical Skills
+# 🎯 My Current Focus
 
-### Programming
+| Area                       | What I'm Focusing On                       |
+| -------------------------- | ------------------------------------------ |
+| 🤖 Artificial Intelligence | AI fundamentals & intelligent applications |
+| 🧠 Machine Learning        | ML concepts & practical implementation     |
+| ✨ Generative AI            | LLMs, prompting & AI applications          |
+| 🔗 AI Agents               | Agentic workflows & automation             |
+| 🐍 Python                  | Python development for AI                  |
+| 🌐 Full-Stack              | Building complete web applications         |
+| ☁️ Cloud                   | Cloud-based application development        |
+| 🗄️ Databases              | SQL & NoSQL systems                        |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Programming Languages"/>
+---
+
+# 🛠️ Technology Stack
+
+### 🤖 AI & Data
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
 </p>
 
-**Python · Java · JavaScript · HTML5 · CSS3**
+<p align="center">
 
-### Web Development
+<b>Python • Artificial Intelligence • Machine Learning • Generative AI • AI Agents • Data Analysis</b>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite" alt="Web Technologies"/>
 </p>
 
-**React · Node.js · Express.js · Tailwind CSS · Vite · Responsive Web Development**
+---
 
-### Databases
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+
 </p>
 
-**SQL · MySQL · MongoDB · Database Concepts**
+---
 
-### AI / ML
+### 🌐 Frontend & Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vite" />
+
 </p>
 
-**Artificial Intelligence · Machine Learning Fundamentals · Generative AI · AI Applications · AI Agents · Prompt Engineering · Data Analysis**
+---
 
-### Tools
+### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
 </p>
 
-**Git · GitHub · VS Code · Figma · Postman**
+<p align="center">
+
+<b>SQL • MongoDB  • MySQL</b>
+
+</p>
+
+---
+
+### ☁️ Cloud & Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" />
+
+</p>
+
+<p align="center">
+
+<b>AWS • Cloud Computing  • Scalable Applications</b>
+
+</p>
+
+---
+
+### 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 The Icing Room — AI-Enhanced Cake Shop
+<div align="center">
+
+### ✨ Building • Learning • Experimenting • Improving ✨
+
+</div>
+
+---
+
+## 🎂 The Icing Room — Cake Shop
 
 <a href="https://github.com/K-Chethika/The-Icing-Room-Cake-Shop">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFCB?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-A responsive cake shop web application with an **AI-powered customer chatbot**.
+> A modern and responsive e-commerce-style website for a premium cake shop, built from scratch using core web technologies.
 
-### What I built
+### ✨ Key Features
 
-* 🎂 Designed a responsive cake shop interface
-* 🛍️ Created a cake product catalog with LKR pricing
-* 🔐 Implemented registration, login, and forgot-password interfaces
-* 📝 Added interactive forms and client-side validation
-* 📱 Designed responsive layouts using CSS Grid and Flexbox
-* 🤖 Integrated the **Google Gemini API** for an AI-powered chatbot
-* 🔄 Implemented client-server communication for chatbot requests
-* 🔑 Used environment variables to keep API credentials out of source code
-* ⚙️ Added a Node.js and Express.js backend
+* 🏠 Attractive cake-shop landing page
+* 🎂 Cake product catalog
+* 💰 LKR-based pricing
+* 🔐 Registration & login interface
+* 🔑 Forgot-password interface
+* 📝 Interactive forms
+* ✅ Client-side form validation
+* 📱 Mobile-first responsive design
+* 🎨 Modern UI/UX
+* ✨ CSS animations & smooth transitions
+* 📐 CSS Grid & Flexbox layouts
+* ⚡ Vanilla JavaScript
 
-**Technologies:** `HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `Google Gemini API`
+**Tech Stack**
 
-**Status:** 🟢 Completed
+`HTML5` `CSS3` `JavaScript` `CSS Grid` `Flexbox` `Font Awesome`
+
+**Status:** 🟢 **Completed**
 
 ---
 
 ## 🎵 Spotify Clone
 
 <a href="https://github.com/K-Chethika/Spotify-Clone">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFCB?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-A Spotify-inspired responsive music player interface developed with React.
+> A Spotify-inspired responsive music player interface built with React, Tailwind CSS and Vite.
 
-### What I built
+### ✨ Key Features
 
-* 🎧 Designed a Spotify-inspired user interface
-* 🎵 Created song and album components
-* ▶️ Built music-player controls including play/pause and navigation
-* 🔊 Added volume-control interface
-* 🧩 Developed reusable React components
-* 📱 Implemented responsive layouts
-* 🎨 Styled the application with Tailwind CSS
-* ⚡ Used Vite for frontend development
+* 🎧 Spotify-inspired UI
+* 🏠 Music-focused home page
+* 🎵 Song cards
+* 💿 Album cards
+* ▶️ Music player interface
+* ⏯️ Play / pause controls
+* ⏮️ Previous song control
+* ⏭️ Next song control
+* 🔊 Volume control interface
+* 📱 Responsive design
+* 🌙 Modern dark theme
+* 🧩 Reusable React components
+* ⚡ Vite-powered development
+* 🎨 Tailwind CSS styling
 
-**Technologies:** `React.js` `JavaScript` `Tailwind CSS` `Vite` `HTML5` `CSS3`
+**Tech Stack**
 
-**Status:** 🟢 Completed
+`React.js` `JavaScript` `Tailwind CSS` `Vite` `HTML5` `CSS3`
+
+**Status:** 🟢 **Completed**
 
 ---
 
 ## 📚 Library Management System
 
 <a href="https://github.com/K-Chethika/Library-Management-System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFCB?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-A Python-based command-line application created to practice **Object-Oriented Programming and application logic**.
+> A menu-driven Python application demonstrating Object-Oriented Programming and practical library management operations.
 
-### What I built
+### ✨ Key Features
 
-* 📚 Added book management functionality
-* 📖 Implemented book issuing and returning
-* 👤 Added borrower information tracking
-* 📅 Implemented issue-date tracking
-* 💾 Used file-based data storage
-* 🧱 Applied Object-Oriented Programming concepts
-* 🛡️ Added input validation
-* 🖥️ Built an interactive command-line interface
+* 📚 Display available books
+* ➕ Add new books
+* 📖 Issue books
+* 🔄 Return books
+* 👤 Borrower information tracking
+* 📅 Issue-date tracking
+* 💾 File-based data storage
+* 🖥️ Interactive command-line interface
+* 🧱 Object-Oriented Programming
+* 🛡️ User input validation
 
-**Technologies:** `Python` `OOP` `File Handling` `Dictionaries` `Datetime` `CLI`
+**Tech Stack**
 
-**Status:** 🟢 Completed
+`Python` `OOP` `Dictionaries` `File Handling` `Datetime` `CLI`
+
+**Status:** 🟢 **Completed**
 
 ---
 
 ## 🧮 Simple Python Calculator
 
 <a href="https://github.com/K-Chethika/Simple-Python-Calculator">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFCB?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-A command-line calculator built to strengthen Python programming fundamentals.
+> A command-line calculator created to practice Python fundamentals, functions, loops, validation, and exception handling.
 
-### What I practiced
+### ✨ Key Features
 
-* Arithmetic operations
-* Functions
-* Loops
-* Conditional logic
-* Input validation
-* Exception handling
-* Division-by-zero handling
-* Interactive CLI development
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* 🔢 Power operation
+* 🧮 Remainder operation
+* 🔄 Calculator reset
+* ❌ Program termination
+* 🛡️ Input validation
+* ⚠️ Error handling
+* 🚫 Division-by-zero handling
+* 🖥️ Interactive CLI
 
-**Technologies:** `Python` `Functions` `Loops` `Conditional Logic` `Exception Handling`
+**Tech Stack**
 
-**Status:** 🟢 Completed
+`Python` `Functions` `Loops` `Conditional Logic` `Exception Handling`
+
+**Status:** 🟢 **Completed**
 
 ---
 
-# 🚧 Currently Building
+# 🤖 AI & Software Projects
 
-## 💰 AI-Assisted Personal Finance Tracker
+## 💰 AI-Assisted Finance Tracker
 
-A collaborative project focused on using AI to help users understand and manage their personal finances.
+> A collaborative finance management application designed to help users track expenses, understand spending patterns, and receive AI-assisted financial insights.
 
-### Current direction
+### ✨ Planned / Current Features
 
 * 💳 Expense management
-* 📊 Financial analysis
-* 📈 Spending-pattern insights
-* 🤖 AI-assisted recommendations
-* 💡 Intelligent financial assistance
-* 🗄️ Data management
+* 📊 Financial data visualization
+* 🤖 AI-assisted financial analysis
+* 📈 Spending pattern insights
+* 💡 Intelligent recommendations
+* 📱 User-friendly interface
+
+**Tech Stack**
+
+`React` `JavaScript` `AI` `Database`
 
 **Project Type:** 👥 Group Project
 
-**Status:** 🚧 In Development
-
-> This project is currently under development and features may change as the system evolves.
+**Status:** 🚧 **In Development**
 
 ---
 
 ## 🏥 Carley Hospital Management System
 
-A collaborative web-based project focused on organizing hospital-related information and workflows.
+> A collaborative web-based hospital management system designed to organize hospital information and simplify healthcare-related workflows.
 
-### Current direction
+### ✨ Key Features
 
 * 🧑‍⚕️ Patient management
 * 👨‍⚕️ Doctor management
 * 📅 Appointment management
 * 🏥 Hospital information management
-* 🗄️ Database-driven functionality
-* 💻 Web-based interface
+* 🗄️ Database-driven system
+* 💻 Modern web interface
+
+**Tech Stack**
+
+`React` `JavaScript` `Database`
 
 **Project Type:** 👥 Group Project
 
-**Status:** 🚧 In Development
+**Status:** 🚧 **In Development**
 
 ---
 
-# 🎓 Education
-
-### Bachelor of Software Engineering Honours
-
-**Open University of Sri Lanka**
-
-**Expected Graduation:** 2028
-
-### Relevant Areas
-
-* Software Engineering
-* Object-Oriented Programming
-* Database Systems
-* Web Application Development
-* Artificial Intelligence
-* Data Science
-* Cloud Computing
-* Mobile Application Development
-
----
-
-# 📚 Currently Learning
-
-### 🤖 Artificial Intelligence
-
-* Machine Learning
-* Generative AI
-* Large Language Models
-* AI Agents
-* Agentic AI
-* Prompt Engineering
-* AI-powered applications
-
-### 🐍 Python & Data
-
-* Python for AI
-* Data Analysis
-* Machine Learning workflows
-* Problem solving
-
-### ☁️ Cloud & Software Engineering
-
-* Cloud Computing
-* AWS concepts
-* System Design
-* Full-Stack Development
-* Software Engineering practices
-
----
-
-# 🏆 Certifications
-
-### Maximize Productivity with AI Tools
-
-Focused on practical use of AI productivity tools and AI-assisted workflows.
-
----
-
-# 📈 GitHub Activity
+# 📌 Project Portfolio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=K-Chethika&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Chethika&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+| Project                          | Type          | Main Focus            | Status         |
+| -------------------------------- | ------------- | --------------------- | -------------- |
+| 🎂 **The Icing Room**            | 👤 Individual | E-Commerce / Frontend | ✅ Completed    |
+| 🎵 **Spotify Clone**             | 👤 Individual | React / UI            | ✅ Completed    |
+| 📚 **Library Management System** | 👤 Individual | Python / OOP          | ✅ Completed    |
+| 🧮 **Python Calculator**         | 👤 Individual | Python Fundamentals   | ✅ Completed    |
+| 💰 **AI Finance Tracker**        | 👥 Group      | AI / Finance          | 🚧 Development |
+| 🏥 **Carley Hospital**           | 👥 Group      | Healthcare / Web      | 🚧 Development |
 
 </div>
 
 ---
 
-# 🎯 Career Direction
+# 📊 GitHub Analytics
 
-I'm working toward opportunities where I can apply software engineering and AI knowledge to real-world problems.
+<div align="center">
 
-### Interested in
+<img src="https://github-readme-stats.vercel.app/api?username=K-Chethika&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
-**🤖 AI Engineer Intern**
-**🧠 AI/ML Intern**
-**💻 Software Engineer Intern**
-**🔍 Quality Assurance Intern**
-**☁️ Cloud Engineer Intern**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Chethika&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
-My goal is to continuously improve through **building, experimenting, learning, and solving real problems**.
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Chethika&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
 
 ---
 
-# 🌱 My Learning Philosophy
+# 🎓 Education
+
+### 🎓 Bachelor of Software Engineering Honours
+
+**Open University of Sri Lanka**
+
+📅 **Expected Graduation: 2028**
+
+### 📚 Key Areas
+
+* Software Engineering
+* Web Application Development
+* Database Systems
+* Object-Oriented Programming
+* Python Programming
+* Artificial Intelligence
+* Data Science
+* Cloud Computing
+* Mobile Application Development
+* Software Engineering Concepts
+
+---
+
+# 📜 Certifications & Continuous Learning
+
+I'm continuously developing my skills through **courses, certifications, projects, experimentation, and hands-on development**.
+
+### 🤖 Artificial Intelligence
+
+* Artificial Intelligence
+* Machine Learning
+* Generative AI
+* AI Agents & Agentic AI
+* Prompt Engineering
+* AI-powered application development
+
+### 💻 Software Engineering
+
+* Python
+* Java
+* JavaScript
+* React
+* Database Systems
+* Problem Solving
+* System Design Principles
+
+### ☁️ Cloud
+
+* Cloud Computing
+* AWS
+* Cloud-based application development
+* Scalable system concepts
+
+> **Learn → Build → Experiment → Improve → Repeat.**
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
 
 ```text
-        LEARN
-          ↓
-      EXPERIMENT
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-       IMPROVE
-          ↓
-        REPEAT
+╔════════════════════════════════════════════════════╗
+║                    2026 GOALS                      ║
+╠════════════════════════════════════════════════════╣
+║ 🤖 Strengthen Artificial Intelligence fundamentals ║
+║ 🧠 Build stronger Machine Learning knowledge       ║
+║ ✨ Learn Generative AI & AI Agents                 ║
+║ 🐍 Become stronger with Python for AI              ║
+║ 🌐 Improve Full-Stack Development                  ║
+║ ☁️ Strengthen Cloud Engineering skills             ║
+║ 🚀 Build practical AI-powered projects             ║
+║ 💼 Gain industry experience                        ║
+║ 🧩 Improve algorithms & problem-solving             ║
+║ 📚 Continue learning through projects              ║
+╚════════════════════════════════════════════════════╝
 ```
 
-> I believe the best way to learn software engineering is to build real projects, understand why things work, learn from mistakes, and continuously improve.
+</div>
+
+
+# 🧩 Areas of Interest
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=850&lines=Exploring+AI+%E2%80%A2+Building+Intelligent+Systems;Engineering+Software+That+Solves+Real-World+Problems+%F0%9F%9A%80" alt="Areas of Interest"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Artificial Intelligence**
+
+<br>
+
+Intelligent Applications
+AI-Powered Solutions
+AI Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Machine Learning**
+
+<br>
+
+ML Fundamentals
+Predictive Models
+Data-Driven Solutions
+
+</td>
+
+<td align="center" width="25%">
+
+### ✨
+
+**Generative AI**
+
+<br>
+
+LLMs
+Prompt Engineering
+AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔗
+
+**AI Agents**
+
+<br>
+
+Agentic AI
+AI Workflows
+Automation
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**AI with Python**
+
+<br>
+
+Python Development
+Data Analysis
+Problem Solving
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Software Engineering**
+
+<br>
+
+System Design
+OOP
+Software Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Full-Stack Development**
+
+<br>
+
+Web Applications
+React
+Backend Development
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Cloud Engineering**
+
+<br>
+
+AWS
+Cloud Computing
+Scalable Systems
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=7CFFCB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%A7%A0" alt="Direction Animation"/>
+
+</div>
+
+# 🚀 What I'm Building Toward
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+🔍
+
+<br>
+
+<b>UNDERSTAND</b>
+
+<br><br>
+
+Understand real-world problems,
+requirements, and user needs
+before building a solution.
+
+</td>
+
+<td align="center" width="25%">
+
+🧠
+
+<br>
+
+<b>THINK</b>
+
+<br><br>
+
+Apply logical thinking,
+AI concepts, and software
+engineering principles.
+
+</td>
+
+<td align="center" width="25%">
+
+🚀
+
+<br>
+
+<b>BUILD</b>
+
+<br><br>
+
+Create intelligent, scalable,
+and practical applications
+using AI, software, and cloud.
+
+</td>
+
+<td align="center" width="25%">
+
+📈
+
+<br>
+
+<b>IMPROVE</b>
+
+<br><br>
+
+Learn from every project,
+experiment with new technologies,
+and continuously improve.
+
+</td>
+
+</tr>
+</table>
+<br>
+
+🤖 **Intelligent Systems**   •  
+💻 **Software Engineering**   •  
+☁️ **Cloud Engineering**
+
+<br><br>
+
+<i>
+
+I believe great developers are not defined only by the technologies they know,
+but by their ability to understand problems, think creatively, build practical solutions,
+and continuously learn and improve.
+
+</i>
+
+</div>
 
 ---
 
@@ -361,24 +701,30 @@ My goal is to continuously improve through **building, experimenting, learning, 
 
 <div align="center">
 
-<a href="https://github.com/K-Chethika">
-<img src="https://img.shields.io/badge/GitHub-K--Chethika-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
 <a href="https://www.linkedin.com/in/kavindichethika/">
-<img src="https://img.shields.io/badge/LinkedIn-Kavindi%20Chethika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kavindi%20Chethika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kavichethika26@gmail.com">
-<img src="https://img.shields.io/badge/Email-kavichethika26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/K-Chethika">
+<img src="https://img.shields.io/badge/GitHub-K--Chethika-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 🚀 Learn. Build. Improve.
+### 🚀 Building Today. Learning Every Day. Engineering the Future.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CFFCB,100:7C3AED&height=120&section=footer"/>
 
 </div>
+
+<!-- ======================= END PROFILE ======================= -->
