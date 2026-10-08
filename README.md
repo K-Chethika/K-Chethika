@@ -1,10 +1,8 @@
-
-
 <div align="center">
 
 <!-- Animated Typing Header -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=7CFFCB&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Kavindi+Chethika+%F0%9F%91%8B;Software+Engineering+Undergraduate+%F0%9F%92%BB;Aspiring+AI+Engineer+%F0%9F%A4%96;Building+AI-Powered+Applications+%F0%9F%A7%A0;Full-Stack+Developer+%7C+AI+%7C+Cloud+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=7CFFCB&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Kavindi+Chethika+%F0%9F%91%8B;Final-Year+Software+Engineering+Undergraduate+%F0%9F%92%BB;Aspiring+AI+Engineer+%F0%9F%A4%96;AI+%26+Data+Science+Enthusiast+%F0%9F%93%8A;Building+AI-Powered+%26+Data-Driven+Applications+%F0%9F%A7%A0;Turning+Data+%26+Ideas+Into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -13,18 +11,19 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=KAVINDI%20CHETHIKA&fontColor=ffffff&fontSize=48&fontWeight=700&animation=fadeIn&stroke=7CFFCB&strokeWidth=1" />
 
 </div>
+
 <br>
 
 <p>
   <strong>🤖 Aspiring AI Engineer</strong>
   &nbsp; • &nbsp;
-  <strong>🌐 Full-Stack Developer</strong>
+  <strong>📊 Data Science Enthusiast</strong>
   &nbsp; • &nbsp;
-  <strong>☁️ Cloud Enthusiast</strong>
+  <strong>🌐 Full-Stack Developer</strong>
 </p>
 
 <p>
-  <em>Building intelligent software that solves real-world problems.</em>
+  <em>Building intelligent and data-driven solutions that solve real-world problems.</em>
 </p>
 
 <br>
@@ -39,18 +38,20 @@
 
 # 👩‍💻 About Me
 
-Hi! I'm **Kavindi Chethika**, a Software Engineering undergraduate from Sri Lanka with a growing passion for **Artificial Intelligence, intelligent software systems, and modern application development**.
+Hi! I'm **Kavindi Chethika**, a final-year Software Engineering undergraduate from Sri Lanka with a growing passion for **Artificial Intelligence, Data Science, intelligent systems, and modern application development**.
 
 I'm interested in combining:
 
-**🤖 AI + 💻 Software Engineering + ☁️ Cloud + 🌐 Full-Stack Development**
+**🤖 AI + 📊 Data Science + 💻 Software Engineering + ☁️ Cloud + 🌐 Full-Stack Development**
 
-to create practical, scalable, and user-focused solutions.
+to create practical, scalable, and data-driven solutions for real-world problems.
 
 ```text
-🎓 Software Engineering Undergraduate
+🎓 Final-Year Software Engineering Undergraduate
 🤖 Aspiring AI Engineer
-🐍 Python & AI Enthusiast
+📊 Data Science Enthusiast
+🐍 Python & Machine Learning
+✨ Generative AI & AI Agents
 🌐 Full-Stack Developer
 ☁️ Cloud Engineering Enthusiast
 🧠 Problem Solver
@@ -61,9 +62,10 @@ to create practical, scalable, and user-focused solutions.
 ### 🌱 Currently Learning
 
 * 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Science & Data Analytics
 * ✨ Generative AI
 * 🔗 AI Agents & Agentic AI
-* 🐍 Python for AI
+* 🐍 Python for AI & Data Science
 * 🌐 Full-Stack Web Development
 * ☁️ Cloud Engineering
 * 🗄️ Database Systems
@@ -73,22 +75,23 @@ to create practical, scalable, and user-focused solutions.
 
 # 🎯 My Current Focus
 
-| Area                       | What I'm Focusing On                       |
-| -------------------------- | ------------------------------------------ |
-| 🤖 Artificial Intelligence | AI fundamentals & intelligent applications |
-| 🧠 Machine Learning        | ML concepts & practical implementation     |
-| ✨ Generative AI            | LLMs, prompting & AI applications          |
-| 🔗 AI Agents               | Agentic workflows & automation             |
-| 🐍 Python                  | Python development for AI                  |
-| 🌐 Full-Stack              | Building complete web applications         |
-| ☁️ Cloud                   | Cloud-based application development        |
-| 🗄️ Databases              | SQL & NoSQL systems                        |
+| Area                       | What I'm Focusing On                            |
+| -------------------------- | ----------------------------------------------- |
+| 🤖 Artificial Intelligence | AI fundamentals & intelligent applications      |
+| 🧠 Machine Learning        | ML concepts & practical implementation          |
+| 📊 Data Science            | Data analysis, insights & data-driven solutions |
+| ✨ Generative AI            | LLMs, prompting & AI applications               |
+| 🔗 AI Agents               | Agentic workflows & automation                  |
+| 🐍 Python                  | Python development for AI & Data Science        |
+| 🌐 Full-Stack              | Building complete web applications              |
+| ☁️ Cloud                   | Cloud-based application development             |
+| 🗄️ Databases              | SQL & NoSQL systems                             |
 
 ---
 
 # 🛠️ Technology Stack
 
-### 🤖 AI & Data
+### 🤖 AI & Data Science
 
 <p align="center">
 
@@ -98,7 +101,7 @@ to create practical, scalable, and user-focused solutions.
 
 <p align="center">
 
-<b>Python • Artificial Intelligence • Machine Learning • Generative AI • AI Agents • Data Analysis</b>
+<b>Python • Artificial Intelligence • Machine Learning • Data Science • Data Analysis • Generative AI • AI Agents</b>
 
 </p>
 
@@ -134,7 +137,7 @@ to create practical, scalable, and user-focused solutions.
 
 <p align="center">
 
-<b>SQL • MongoDB  • MySQL</b>
+<b>SQL • MongoDB • MySQL</b>
 
 </p>
 
@@ -150,7 +153,7 @@ to create practical, scalable, and user-focused solutions.
 
 <p align="center">
 
-<b>AWS • Cloud Computing  • Scalable Applications</b>
+<b>AWS • Cloud Computing • Scalable Applications</b>
 
 </p>
 
@@ -294,7 +297,7 @@ to create practical, scalable, and user-focused solutions.
 
 ---
 
-# 🤖 AI & Software Projects
+# 🤖 AI & Data Science Projects
 
 ## 💰 AI-Assisted Finance Tracker
 
@@ -311,7 +314,7 @@ to create practical, scalable, and user-focused solutions.
 
 **Tech Stack**
 
-`React` `JavaScript` `AI` `Database`
+`React` `JavaScript` `AI` `Data Analysis` `Database`
 
 **Project Type:** 👥 Group Project
 
@@ -346,14 +349,14 @@ to create practical, scalable, and user-focused solutions.
 
 <div align="center">
 
-| Project                          | Type          | Main Focus            | Status         |
-| -------------------------------- | ------------- | --------------------- | -------------- |
-| 🎂 **The Icing Room**            | 👤 Individual | E-Commerce / Frontend | ✅ Completed    |
-| 🎵 **Spotify Clone**             | 👤 Individual | React / UI            | ✅ Completed    |
-| 📚 **Library Management System** | 👤 Individual | Python / OOP          | ✅ Completed    |
-| 🧮 **Python Calculator**         | 👤 Individual | Python Fundamentals   | ✅ Completed    |
-| 💰 **AI Finance Tracker**        | 👥 Group      | AI / Finance          | 🚧 Development |
-| 🏥 **Carley Hospital**           | 👥 Group      | Healthcare / Web      | 🚧 Development |
+| Project                          | Type          | Main Focus                  | Status         |
+| -------------------------------- | ------------- | --------------------------- | -------------- |
+| 🎂 **The Icing Room**            | 👤 Individual | E-Commerce / Frontend       | ✅ Completed    |
+| 🎵 **Spotify Clone**             | 👤 Individual | React / UI                  | ✅ Completed    |
+| 📚 **Library Management System** | 👤 Individual | Python / OOP                | ✅ Completed    |
+| 🧮 **Python Calculator**         | 👤 Individual | Python Fundamentals         | ✅ Completed    |
+| 💰 **AI Finance Tracker**        | 👥 Group      | AI / Data Science / Finance | 🚧 Development |
+| 🏥 **Carley Hospital**           | 👥 Group      | Healthcare / Web            | 🚧 Development |
 
 </div>
 
@@ -396,6 +399,7 @@ to create practical, scalable, and user-focused solutions.
 * Python Programming
 * Artificial Intelligence
 * Data Science
+* Machine Learning
 * Cloud Computing
 * Mobile Application Development
 * Software Engineering Concepts
@@ -406,10 +410,12 @@ to create practical, scalable, and user-focused solutions.
 
 I'm continuously developing my skills through **courses, certifications, projects, experimentation, and hands-on development**.
 
-### 🤖 Artificial Intelligence
+### 🤖 Artificial Intelligence & Data Science
 
 * Artificial Intelligence
 * Machine Learning
+* Data Science
+* Data Analytics
 * Generative AI
 * AI Agents & Agentic AI
 * Prompt Engineering
@@ -446,25 +452,27 @@ I'm continuously developing my skills through **courses, certifications, project
 ╠════════════════════════════════════════════════════╣
 ║ 🤖 Strengthen Artificial Intelligence fundamentals ║
 ║ 🧠 Build stronger Machine Learning knowledge       ║
+║ 📊 Develop Data Science & Data Analytics skills    ║
 ║ ✨ Learn Generative AI & AI Agents                 ║
-║ 🐍 Become stronger with Python for AI              ║
+║ 🐍 Become stronger with Python for AI & Data       ║
 ║ 🌐 Improve Full-Stack Development                  ║
 ║ ☁️ Strengthen Cloud Engineering skills             ║
-║ 🚀 Build practical AI-powered projects             ║
+║ 🚀 Build practical AI & data-driven projects       ║
 ║ 💼 Gain industry experience                        ║
-║ 🧩 Improve algorithms & problem-solving             ║
+║ 🧩 Improve algorithms & problem-solving            ║
 ║ 📚 Continue learning through projects              ║
 ╚════════════════════════════════════════════════════╝
 ```
 
 </div>
 
+---
 
 # 🧩 Areas of Interest
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=850&lines=Exploring+AI+%E2%80%A2+Building+Intelligent+Systems;Engineering+Software+That+Solves+Real-World+Problems+%F0%9F%9A%80" alt="Areas of Interest"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=850&lines=Exploring+AI+%E2%80%A2+Data+Science+%E2%80%A2+Building+Intelligent+Systems;Engineering+Software+That+Solves+Real-World+Problems+%F0%9F%9A%80" alt="Areas of Interest"/>
 
 <br><br>
 
@@ -501,6 +509,21 @@ Data-Driven Solutions
 
 <td align="center" width="25%">
 
+### 📊
+
+**Data Science**
+
+<br>
+
+Data Analysis
+Data Visualization
+Statistical Analysis
+Data-Driven Insights
+
+</td>
+
+<td align="center" width="25%">
+
 ### ✨
 
 **Generative AI**
@@ -512,6 +535,14 @@ Prompt Engineering
 AI Applications
 
 </td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
 
 <td align="center" width="25%">
 
@@ -526,14 +557,6 @@ AI Workflows
 Automation
 
 </td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
 
 <td align="center" width="25%">
 
@@ -577,6 +600,14 @@ Backend Development
 
 </td>
 
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
 <td align="center" width="25%">
 
 ### ☁️
@@ -591,14 +622,58 @@ Scalable Systems
 
 </td>
 
+<td align="center" width="25%">
+
+### 📈
+
+**Data Analytics**
+
+<br>
+
+Data Insights
+Data Visualization
+Analytical Thinking
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Data & Databases**
+
+<br>
+
+SQL
+MySQL
+MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**AI Applications**
+
+<br>
+
+Intelligent Systems
+Real-World Solutions
+Automation
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=7CFFCB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%A7%A0" alt="Direction Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=7CFFCB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+Data+%26+Ideas+Into+Intelligent+Solutions+%F0%9F%A7%A0" alt="Direction Animation"/>
 
 </div>
+
+---
 
 # 🚀 What I'm Building Toward
 
@@ -615,9 +690,7 @@ Scalable Systems
 
 <br><br>
 
-Understand real-world problems,
-requirements, and user needs
-before building a solution.
+Understand real-world problems, requirements, user needs, and data before building a solution.
 
 </td>
 
@@ -631,9 +704,7 @@ before building a solution.
 
 <br><br>
 
-Apply logical thinking,
-AI concepts, and software
-engineering principles.
+Apply logical thinking, AI concepts, data science methods, and software engineering principles.
 
 </td>
 
@@ -647,9 +718,7 @@ engineering principles.
 
 <br><br>
 
-Create intelligent, scalable,
-and practical applications
-using AI, software, and cloud.
+Create intelligent, scalable, and practical applications using AI, data, software, and cloud.
 
 </td>
 
@@ -663,17 +732,19 @@ using AI, software, and cloud.
 
 <br><br>
 
-Learn from every project,
-experiment with new technologies,
-and continuously improve.
+Learn from every project, experiment with new technologies, and continuously improve.
 
 </td>
 
 </tr>
 </table>
+
 <br>
 
-🤖 **Intelligent Systems**   •  
+<div align="center">
+
+🤖 **Artificial Intelligence**   •  
+📊 **Data Science**   •  
 💻 **Software Engineering**   •  
 ☁️ **Cloud Engineering**
 
@@ -682,8 +753,8 @@ and continuously improve.
 <i>
 
 I believe great developers are not defined only by the technologies they know,
-but by their ability to understand problems, think creatively, build practical solutions,
-and continuously learn and improve.
+but by their ability to understand problems, work with data, think creatively,
+build practical solutions, and continuously learn and improve.
 
 </i>
 
